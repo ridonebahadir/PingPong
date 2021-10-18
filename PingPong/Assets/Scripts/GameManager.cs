@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-
+    //HEllO WORLD
     public static GameManager SharedInstance;
     public List<GameObject> pooledObjects;
     public GameObject objectToPool;
